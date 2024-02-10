@@ -307,7 +307,7 @@ local PredictionValue = 0.1259910
 
 getgenv().Prediction = 0.143105125985120958176	
 getgenv().AimPart = "HumanoidRootPart"	
-getgenv().Key = "Q"	
+getgenv().Key = "P"	
 getgenv().DisableKey = "K"	
 	
 getgenv().FOV = true	
